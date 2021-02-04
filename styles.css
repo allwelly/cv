@@ -1,0 +1,22 @@
+            body {
+                background-color:#00303f;
+            }
+            hr {
+                border-color: #f5f4f4;
+                border-style: none;
+                border-top-style: dotted;
+                border-width: 5px;
+                width: 5%;
+            }
+            h1, h3 {
+                color: #cdac81;
+            }
+            p, table, form, ol {
+                color: #cae4db;
+            }
+            a {
+                color:  #f5f4f4;
+            }
+            a:hover {
+                color: #cdac81;
+            }
